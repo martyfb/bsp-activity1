@@ -31,4 +31,4 @@ jobs:
         
         - name: tag ang push to dcker hub
           run: | 
-            docker push pammarty/act:latest
+            docker push pammarty/act1:latest
